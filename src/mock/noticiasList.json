@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ingrid Lunden",
+        "title": "Tiny acquires HappyFunCorp, the prolific firm that's built apps for Twitter, Amazon and more, for $30M",
+        "description": "M&A and consolidation continue to be major themes in the tech world as companies look for their next steps in a tight market. That’s a trend impacting not just startups and larger tech companies, but the firms that work closely with them. In the latest develo…",
+        "url": "https://techcrunch.com/2023/07/03/tiny-acquires-happyfuncorp-the-prolific-firm-thats-built-apps-for-twitter-amazon-and-more-for-30m/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1388687270-1.jpg?resize=1200,800",
+        "publishedAt": "2023-07-03T13:35:19Z",
+        "content": "M&amp;A and consolidation continue to be major themes in the tech world as companies look for their next steps in a tight market. That’s a trend impacting not just startups and larger tech companies,… [+4531 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Manish Singh",
+        "title": "India's Reliance launches $12 4G-enabled phone to extend reach",
+        "description": "Jio Bharat supports 4G network, UPI payments as well as access to on-demand video and streaming services JioCinema and JioSaavn.",
+        "url": "https://techcrunch.com/2023/07/03/jio-bharat-specifications-price-plans/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/jio-bharat-specs.jpg?w=1180",
+        "publishedAt": "2023-07-03T12:50:43Z",
+        "content": "Reliance’s digital arm, Jio Platforms, has unveiled a new mobile handset and associated tariff plans, the latest in a series of years-long efforts from the top Indian telecom operator as it vies to c… [+1456 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ivan Mehta",
+        "title": "TweetDeck suffers as Musk enforces read limits on Twitter",
+        "description": "After Musk enforced tweet reading limits, TweetDeck users are facing issues in various columns loading up for them.",
+        "url": "https://techcrunch.com/2023/07/03/tweetdeck-suffers-as-musk-enforces-read-limits-on-twitter/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/twitter-dead-accounts.jpg?resize=1200,675",
+        "publishedAt": "2023-07-03T10:08:08Z",
+        "content": "Over the weekend, Elon Musk limited the number of tweets users can read in a day, which he said was to prevent data scraping. While this measure has affected all Twitter users, TweetDeck users in par… [+1675 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Rebecca Bellan",
+        "title": "Tesla delivers record EVs amid federal tax credits, price cuts",
+        "description": "Tesla reported record global production of 479,000 units and record deliveries of 466,140 EVs amid price cuts and EV tax credits.",
+        "url": "https://techcrunch.com/2023/07/02/tesla-delivers-record-evs-amid-federal-tax-credits-price-cuts/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1397664328.jpg?resize=1200,800",
+        "publishedAt": "2023-07-02T20:22:11Z",
+        "content": "Tesla has topped Wall Street delivery estimates in the second quarter of 2023 as the automaker’s many price cuts and the Biden administration’s federal electric vehicle tax credits take effect.\r\nThe … [+1564 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kirsten Korosec",
+        "title": "Lucid scores a win, Bird's founder leaves the nest and Zoox robotaxis roll out in Vegas",
+        "description": "The Station is a weekly newsletter focuses on the future of transportation. This week, Apple. Bird, Lucid, Tesla and Zoox are in the news.",
+        "url": "https://techcrunch.com/2023/07/02/lucid-scores-a-win-birds-founder-leaves-the-nest-and-zoox-robotaxis-roll-out-in-vegas/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/06-touring-SF-front-view.jpg?resize=1200,800",
+        "publishedAt": "2023-07-02T19:37:10Z",
+        "content": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here  just click The Station  to receive the full edition of the newsletter every weekend in your inbox. Subscribe f… [+11156 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Karan Bhasin",
+        "title": "15 investors talk about their investment cadence in H1 2023",
+        "description": "As expected, it appears a good mix of investors wrote checks at the rate they'd aimed for, while others fell a bit short.",
+        "url": "https://techcrunch.com/2023/07/02/investors-investment-cadence-2023/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-129748048.jpg?resize=1200,900",
+        "publishedAt": "2023-07-01T19:23:44Z",
+        "content": "As part of ourongoing coverage of VC performance in the first half of 2023, TechCrunch+ surveyed 15 investors about their investment cadence and their plans for the second half of the year.\r\nAs expec… [+5448 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Mary Ann Azevedo and Christine Hall",
+        "title": "Fintech M&A gets a big boost with Visa-Pismo deal",
+        "description": "São Paulo–based Pismo has seen explosive growth in recent years – jumping from 10 million accounts at the end of 2020 to 80 million today.",
+        "url": "https://techcrunch.com/2023/07/02/fintech-ma-gets-a-big-boost-with-visa-pismo-deal/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/latin-america-money-bryce.webp?resize=1200,674",
+        "publishedAt": "2023-06-30T23:57:25Z",
+        "content": "It was a very busy week in the world of fintech, which certainly kept us on our toes. We covered a couple of notable M&amp;A deals (including one of the biggest of the year so far), a different kind … [+10091 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers",
+        "title": "Netflix axes its basic plan in Canada, IRL shuts down and Shein's influencer stunt backfires",
+        "description": "In this week's edition of Week in Review (WiR), we cover Netflix axing its basic plan in Canada, Shein's ill-conceived publicity stunt and more.",
+        "url": "https://techcrunch.com/2023/07/01/netflix-axes-its-basic-plan-in-canada-irl-shuts-down-and-sheins-influencer-stunt-backfires/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240099721.jpeg?resize=1200,800",
+        "publishedAt": "2023-06-30T20:44:49Z",
+        "content": "It’s that time of week again, folks. Welcome to Week in Review (WiR), TechCrunch’s regular digest of the past week in tech. New here? Not to worry — sign up here to get WiR in your inbox every Saturd… [+5742 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Mark Chaffey",
+        "title": "Trying to close a Series B in 2023? Read this first.",
+        "description": "There will always be a path forward for determined founders with strong ideas and smart investors with an eye for opportunity",
+        "url": "https://techcrunch.com/2023/07/03/trying-to-close-a-series-b-in-2023-read-this-first/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1409636005.jpg?resize=1200,777",
+        "publishedAt": "2023-06-29T22:15:44Z",
+        "content": "Despite ongoing economic uncertainty, there will always be a path forward for determined founders with strong ideas and smart investors with an eye for opportunity. But make no mistake, the challenge… [+4120 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Brian Heater",
+        "title": "RoboDeck, the deck maintenance robot, scores a $2M pre-seed",
+        "description": "Today the company announced a pre-seed round of $2 million, arriving a little under two years after it appeared on the Disrupt stage.",
+        "url": "https://techcrunch.com/2023/07/03/robodeck-the-deck-maintenance-robot-scores-a-2m-pre-seed/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/347011800_622001296617334_1322998159540749950_n.jpg?resize=1200,676",
+        "publishedAt": "2023-06-28T10:36:37Z",
+        "content": "Im sure the team at RoboDeck is sick and tired of people referring to their robot is a Roomba for decks. But we did so in our write-up when the Israeli firm competed in Startup Battlefield, and Ive j… [+1824 chars]"
+      }
+    ]
+  }
