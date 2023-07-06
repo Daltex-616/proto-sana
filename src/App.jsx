@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useNoticias } from './hoock/useNoticias';
 import { Noticias } from './components/Noticias';
 import{Banner} from './components/Banner'
+import { Home } from './components/Home';
 
 function App() {
   const {noticias} = useNoticias()
@@ -11,9 +12,10 @@ function App() {
     <>
     <NavBar/>
     <Banner/>
-    <div>ñ</div>
+    
     <main>
-      {true && <Noticias noticias={noticias}/>}
+      <Home/>
+      {false && <Noticias noticias={noticias}/>}
     </main>
     </>
   );
